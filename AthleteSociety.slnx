@@ -1,8 +1,8 @@
 <Solution>
-  <Project Path="AthleteSociety.Api.Tests/AthleteSociety.Api.Tests.csproj" />
-  <Project Path="AthleteSociety.Api/AthleteSociety.Api.csproj" />
-  <Project Path="AthleteSociety.Application.Tests/AthleteSociety.Application.Tests.csproj" />
-  <Project Path="AthleteSociety.Application/AthleteSociety.Application.csproj" />
-  <Project Path="AthleteSociety.Domain/AthleteSociety.Domain.csproj" />
-  <Project Path="AthleteSociety.Infrastructure/AthleteSociety.Infrastructure.csproj" />
+  <Project Path="src/AthleteSociety.Api/AthleteSociety.Api.csproj" />
+  <Project Path="src/AthleteSociety.Application/AthleteSociety.Application.csproj" />
+  <Project Path="src/AthleteSociety.Domain/AthleteSociety.Domain.csproj" />
+  <Project Path="src/AthleteSociety.Infrastructure/AthleteSociety.Infrastructure.csproj" />
+  <Project Path="tests/AthleteSociety.Api.Tests/AthleteSociety.Api.Tests.csproj" />
+  <Project Path="tests/AthleteSociety.Application.Tests/AthleteSociety.Application.Tests.csproj" />
 </Solution>

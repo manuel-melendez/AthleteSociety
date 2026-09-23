@@ -1,4 +1,4 @@
-@AthleteSociety.Api_HostAddress = http://localhost:5051
+@AthleteSociety.Api_HostAddress = http://localhost:5182
 
 GET {{AthleteSociety.Api_HostAddress}}/weatherforecast/
 Accept: application/json

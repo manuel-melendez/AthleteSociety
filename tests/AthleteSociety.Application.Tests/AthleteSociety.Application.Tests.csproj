@@ -15,8 +15,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AthleteSociety.Api\AthleteSociety.Api.csproj" />
-    <ProjectReference Include="..\AthleteSociety.Application\AthleteSociety.Application.csproj" />
+    <ProjectReference Include="..\..\src\AthleteSociety.Api\AthleteSociety.Api.csproj" />
+    <ProjectReference Include="..\..\src\AthleteSociety.Application\AthleteSociety.Application.csproj" />
   </ItemGroup>
 
   <ItemGroup>
