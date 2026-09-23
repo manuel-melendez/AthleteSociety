@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="AthleteSociety.Api.Tests/AthleteSociety.Api.Tests.csproj" />
+  <Project Path="AthleteSociety.Api/AthleteSociety.Api.csproj" />
+  <Project Path="AthleteSociety.Application.Tests/AthleteSociety.Application.Tests.csproj" />
+  <Project Path="AthleteSociety.Application/AthleteSociety.Application.csproj" />
+  <Project Path="AthleteSociety.Domain/AthleteSociety.Domain.csproj" />
+  <Project Path="AthleteSociety.Infrastructure/AthleteSociety.Infrastructure.csproj" />
+</Solution>
